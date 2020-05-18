@@ -15,7 +15,6 @@ Blue- sad
 
 Purple-mellow vibe
 
-This algorithm 
 
 
-As you can see from our demo video, the user can create a picture using any of the 6 color options available. When they click generate, our algorithm will determine (using the length of the brush strokes for each color using a color count for those strokes) which were the most plotted coordinate points per stroke, and therefore, which were the most used colors. Based off the highest color, the app will generate a song that correlates to that color’s emotion, which you can listen to by hitting the play button (the text of the song will also show up) and you can also pause by hitting the pause button. 
+The user can create a picture using any of the 6 color options available. When they click generate, our algorithm will determine (using the length of the brush strokes for each color using a color count for those strokes) which were the most plotted coordinate points per stroke, and therefore, which were the most used colors. Based off the highest color, the app will generate a song that correlates to that color’s emotion, which you can listen to by hitting the play button (the text of the song will also show up) and you can also pause by hitting the pause button. 
